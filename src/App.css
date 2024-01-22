@@ -1,0 +1,12 @@
+/* Your css for App.jsx */
+.Clock {
+  background-color: #8de1f4;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.Timer {
+  background-color: #85a5fb;
+  padding: 10px;
+  margin-bottom: 10px;
+}
